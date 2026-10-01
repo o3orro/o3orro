@@ -1,96 +1,119 @@
+<div align="center">
+
+# 👋 Hello There
+
+### DevOps / Cloud Engineer
+
+<a href="노션포트폴리오주소">
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=notion&logoColor=white"/>
+</a>
+
+<a href="mailto:o3orro@naver.com">
+  <img src="https://img.shields.io/badge/EMAIL-03C75A?style=flat-square&logo=naver&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
 ## 🛠 Tech Stack
 
-### Container & Orchestration
-`Kubernetes` `OpenShift` `Docker` `containerd` `k3s`
+<table>
+  <tr>
+    <td><b>Container</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/containerd-575757?style=flat-square"/>
+      <img src="https://img.shields.io/badge/k3s-FFC61C?style=flat-square&logo=k3s&logoColor=black"/>
+    </td>
+  </tr>
 
-### DevOps & Automation
-`Ansible` `Jenkins` `Argo CD` `Kustomize` `Terraform` `Git`
+  <tr>
+    <td><b>DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+    </td>
+  </tr>
 
-### Cloud
-`AWS` `ROSA`
+  <tr>
+    <td><b>Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ROSA-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white"/>
+    </td>
+  </tr>
 
-### Infrastructure
-`HAProxy` `Keepalived` `NGINX Gateway Fabric` `Harbor` `NFS` `MinIO`
+  <tr>
+    <td><b>Infra</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/HAProxy-106DA9?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Keepalived-444444?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Harbor-60B932?style=flat-square&logo=harbor&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
+    </td>
+  </tr>
 
-### Database
-`MariaDB` `MaxScale`
+  <tr>
+    <td><b>Monitoring</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Loki-F5A623?style=flat-square&logo=grafana&logoColor=white"/>
+    </td>
+  </tr>
 
-### Monitoring
-`Prometheus` `Grafana` `Alertmanager` `Loki`
+  <tr>
+    <td><b>Database</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MaxScale-003545?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
-### OS & Network
-`Linux` `CentOS Stream` `DNS` `NTP` `TCP/IP`
+<br>
 
----
+## 📊 GitHub Stats
 
-## 🚀 Featured Project
+<div align="center">
 
-### NeuroPlan — On-Premise Kubernetes Infrastructure
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=o3orro&show_icons=true&theme=transparent&hide_border=true"/>
 
-고가용성 Kubernetes 인프라에서 애플리케이션을 안정적으로 운영할 수 있도록  
-**인프라 자동화, CI/CD, GitOps, 모니터링 및 DR 환경**을 구축한 프로젝트입니다.
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o3orro&layout=compact&theme=transparent&hide_border=true"/>
 
-**담당 영역**
-- Ansible 기반 공통 인프라 구성 및 자동화
-- Jenkins 기반 CI 파이프라인 구축
-- Harbor Private Registry 연동
-- Kustomize + Argo CD 기반 GitOps CD 구성
-- Kubernetes / VM Health Check 자동화
-- Prometheus · Grafana 기반 모니터링
-- k3s 기반 DR 환경 자동화
-- 장애 시나리오 및 복구 검증
+</div>
 
-**Architecture**
+<br>
 
-```text
-Developer
-    │
-    ▼
-  GitHub
-    │
-    ▼
- Jenkins
-    │
-    ▼
- Docker Build
-    │
-    ▼
-  Harbor
-    │
-    ▼
-Kustomize
-    │
-    ▼
- Argo CD
-    │
-    ▼
-Kubernetes
-```
+## 🚀 Projects
 
-### Repositories
+### NeuroPlan On-Premise Kubernetes
 
-- 🧩 [Ansible Automation](../neuroplan-ansible)
-- 🔄 [GitOps Configuration](../neuroplan-gitops)
-- 💻 [NeuroPlan Application](../neuroplan-app)
+> Kubernetes 기반 HA 인프라 및 DevOps 자동화 프로젝트
 
----
+- Ansible 기반 인프라 자동화
+- Jenkins → Harbor → Kustomize → Argo CD CI/CD
+- HAProxy + Keepalived 고가용성 구성
+- Prometheus / Grafana 모니터링
+- MariaDB + MaxScale Failover
+- k3s 기반 DR 환경 구성
 
-## ☁️ Currently Learning
+🔗 [Ansible](https://github.com/o3orro/neuroplan-ansible)  
+🔗 [GitOps](https://github.com/o3orro/neuroplan-gitops)  
+🔗 [Application](https://github.com/o3orro/neuroplan-app)
 
-On-Premise Kubernetes 환경에서의 구축 경험을 바탕으로  
-Cloud Native 환경으로 기술 영역을 확장하고 있습니다.
+<br>
 
-`AWS` `ROSA HCP` `Terraform` `OpenShift GitOps` `RDS` `ECR`
+## 🧱 Git & Contributions
 
----
-
-## 🎯 Interests
-
-- Infrastructure as Code
-- Kubernetes / OpenShift
-- Infrastructure Automation
-- CI/CD & GitOps
-- High Availability
-- Monitoring
-- Disaster Recovery
-- Cloud Infrastructure
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/o3orro/o3orro/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/o3orro/o3orro/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/o3orro/o3orro/output/github-contribution-grid-snake.svg" />
+</picture>
