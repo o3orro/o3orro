@@ -1,9 +1,6 @@
-<div align="center">
-<table>
 <h2 align="center">🛠 Tech Stack</h2>
 
 <div align="center">
-
 <table>
   <tr>
     <td><b>Container</b></td>
@@ -62,39 +59,37 @@
     </td>
   </tr>
 </table>
-
-</div>
-</table>
 </div>
 
 <br>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=o3orro&show_icons=true&theme=transparent&hide_border=true"
-  />
-
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=o3orro&layout=compact&theme=transparent&hide_border=true"
-  />
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=o3orro&show_icons=true&theme=transparent&hide_border=true"
+        width="100%"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=o3orro&layout=compact&theme=transparent&hide_border=true"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 <br>
 
 <div align="center">
-
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=o3orro&utm_content=farm">
-  <img
-    src="https://render.gitanimals.org/farms/o3orro?v=2"
-    width="600"
-    height="300"
-  />
-</a>
-
+  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=o3orro&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/o3orro?v=2"
+      width="600"
+      height="300"
+    />
+  </a>
 </div>
