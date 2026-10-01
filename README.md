@@ -89,23 +89,6 @@
 
 <br>
 
-## 🚀 Projects
-
-### NeuroPlan On-Premise Kubernetes
-
-> Kubernetes 기반 HA 인프라 및 DevOps 자동화 프로젝트
-
-- Ansible 기반 인프라 자동화
-- Jenkins → Harbor → Kustomize → Argo CD CI/CD
-- HAProxy + Keepalived 고가용성 구성
-- Prometheus / Grafana 모니터링
-- MariaDB + MaxScale Failover
-- k3s 기반 DR 환경 구성
-
-🔗 [Ansible](https://github.com/o3orro/neuroplan-ansible)  
-🔗 [GitOps](https://github.com/o3orro/neuroplan-gitops)  
-🔗 [Application](https://github.com/o3orro/neuroplan-app)
-
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=o3orro&utm_content=line">
   <img
