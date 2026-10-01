@@ -90,11 +90,10 @@
 <br>
 
 
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=o3orro&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/o3orro?pet-id=893330198600795346"
-    width="600"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=o3orro&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/o3orro"
+  width="600"
+  height="300"
+/>
 </a>
-  
