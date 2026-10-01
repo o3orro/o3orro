@@ -1,13 +1,3 @@
-# 👋 안녕하세요, DevOps / Cloud Engineer를 준비하고 있습니다.
-
-Kubernetes 기반 인프라 구축과 자동화에 관심을 가지고 있으며,  
-On-Premise 환경에서 **인프라 구축 → 자동화 → CI/CD → 모니터링 → DR**까지 직접 구현한 경험이 있습니다.
-
-현재는 On-Premise 환경에서의 경험을 기반으로  
-**AWS · ROSA · Terraform을 활용한 Cloud / OpenShift 환경**으로 영역을 확장하고 있습니다.
-
----
-
 ## 🛠 Tech Stack
 
 ### Container & Orchestration
