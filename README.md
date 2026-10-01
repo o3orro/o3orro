@@ -108,10 +108,10 @@
 🔗 [GitOps](https://github.com/o3orro/neuroplan-gitops)  
 🔗 [Application](https://github.com/o3orro/neuroplan-app)
 
-<br>
-<a href="https://www.gitanimals.org/">
-  <img
-    src="GitAnimals에서_발급받은_URL"
-    width="600"
-  />
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=o3orro&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/o3orro"
+  width="600"
+  height="300"
+/>
 </a>
