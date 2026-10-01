@@ -73,11 +73,15 @@
 
 <div align="center">
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=o3orro&show_icons=true&theme=transparent&hide_border=true"/>
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=o3orro&show_icons=true&theme=transparent&hide_border=true"
+  />
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=o3orro&layout=compact&theme=transparent&hide_border=true"/>
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=o3orro&layout=compact&theme=transparent&hide_border=true"
+  />
 
 </div>
 
