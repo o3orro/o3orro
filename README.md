@@ -1,7 +1,5 @@
 <div align="center">
 
-# 👋 Hello There
-
 ### DevOps / Cloud Engineer
 
 <a href="노션포트폴리오주소">
