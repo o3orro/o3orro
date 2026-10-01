@@ -109,11 +109,9 @@
 🔗 [Application](https://github.com/o3orro/neuroplan-app)
 
 <br>
-
-## 🧱 Git & Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/o3orro/o3orro/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/o3orro/o3orro/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/o3orro/o3orro/output/github-contribution-grid-snake.svg" />
-</picture>
+<a href="https://www.gitanimals.org/">
+  <img
+    src="GitAnimals에서_발급받은_URL"
+    width="600"
+  />
+</a>
