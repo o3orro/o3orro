@@ -63,24 +63,26 @@
 
 <br>
 
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=o3orro&show_icons=true&theme=transparent&hide_border=true"
+        src="https://github-stats-extended.vercel.app/api?username=o3orro&show_icons=true&theme=transparent&hide_border=true"
         width="100%"
       />
     </td>
     <td align="center" width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=o3orro&layout=compact&theme=transparent&hide_border=true"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=o3orro&layout=compact&theme=transparent&hide_border=true"
         width="100%"
       />
     </td>
   </tr>
 </table>
+
 
 <br>
 
