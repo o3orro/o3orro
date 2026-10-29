@@ -34,8 +34,6 @@
   <tr>
     <td><b>Infra</b></td>
     <td>
-      <img src="https://img.shields.io/badge/HAProxy-106DA9?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Keepalived-444444?style=flat-square"/>
       <img src="https://img.shields.io/badge/Harbor-60B932?style=flat-square&logo=harbor&logoColor=white"/>
       <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
     </td>
