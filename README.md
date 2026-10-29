@@ -52,7 +52,6 @@
     <td><b>Database</b></td>
     <td>
       <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MaxScale-003545?style=flat-square"/>
     </td>
   </tr>
 </table>
